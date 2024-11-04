@@ -1,0 +1,7 @@
+C:\Users\Mohy\Desktop\MOHY ALDEEN\MOHY ALDEEN\bin\Debug\MOHY ALDEEN.exe.config
+C:\Users\Mohy\Desktop\MOHY ALDEEN\MOHY ALDEEN\bin\Debug\MOHY ALDEEN.exe
+C:\Users\Mohy\Desktop\MOHY ALDEEN\MOHY ALDEEN\bin\Debug\MOHY ALDEEN.pdb
+C:\Users\Mohy\Desktop\MOHY ALDEEN\MOHY ALDEEN\obj\Debug\MOHY ALDEEN.csproj.AssemblyReference.cache
+C:\Users\Mohy\Desktop\MOHY ALDEEN\MOHY ALDEEN\obj\Debug\MOHY ALDEEN.csproj.CoreCompileInputs.cache
+C:\Users\Mohy\Desktop\MOHY ALDEEN\MOHY ALDEEN\obj\Debug\MOHY ALDEEN.exe
+C:\Users\Mohy\Desktop\MOHY ALDEEN\MOHY ALDEEN\obj\Debug\MOHY ALDEEN.pdb
